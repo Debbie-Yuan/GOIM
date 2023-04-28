@@ -1,0 +1,14 @@
+database:
+  using: sqlite
+  sqlite: test.db
+  mysql:
+
+
+redis:
+
+
+
+app:
+  dev: false
+  deploy_key: 12345
+  log_path:
